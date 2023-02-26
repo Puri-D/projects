@@ -1,4 +1,5 @@
 Candle Manufacturing Sales Performance Dashboard
+
 This project is a dashboard system that I created for a small candle manufacturing company to monitor their sales performance at different levels using Microsoft Power BI.
 
 The purpose of this project was to provide a user-friendly way for a small business with little familiarity in business technology to monitor their performance with as little manual work as possible. I have provided a dashboard system that enables monthly updates with a simple drag and drop process.
